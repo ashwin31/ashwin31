@@ -36,6 +36,13 @@ I'm the founder of [RunCode.io](https://runcode.io) and [MicroPyramid.com](https
 - Multi-tenant, isolated coding environments using KVM & Docker  
 - Integrated AI coding assistants like Code-Llama and ChatGPT
 
+### 🔹 [BottleCRM.io](https://bottlecrm.io)  
+> Free & open-source Customer Relationship Management  
+- Complete CRM solution for small and medium businesses  
+- Built with SvelteKit, TailwindCSS, and Prisma ORM  
+- Lead, account, contact, and case management features  
+- Open-source MIT licensed project
+
 ### 🔹 [peercoder.ai](https://peercoder.ai)  
 > AI assistant for developers  
 - Suggests code, generates documentation  
