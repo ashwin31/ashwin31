@@ -8,7 +8,7 @@
 
 ## 🧑‍💼 About Me
 
-I'm the founder of [FyrryPari.com](https://furrypari.com), [RunCode.io](https://runcode.io) and [MicroPyramid.com](https://micropyramid.com), with over 13 years of experience in building scalable software solutions, leading product innovation, and mentoring engineering teams. I specialize in cloud development, DevOps, and AI-driven automation tools.
+I'm the founder of [FurryPari.com](https://furrypari.com), [RunCode.io](https://runcode.io) and [MicroPyramid.com](https://micropyramid.com), with over 13 years of experience in building scalable software solutions, leading product innovation, and mentoring engineering teams. I specialize in cloud development, DevOps, and AI-driven automation tools.
 
 ---
 
@@ -29,6 +29,11 @@ I'm the founder of [FyrryPari.com](https://furrypari.com), [RunCode.io](https://
 ---
 
 ## 🚀 My Projects
+
+### 🔹 [FurryPari.com](https://furrypari.com)  
+> **Currently Building:** [FurryPari.com](https://furrypari.com) – A holistic "Digital Identity" ecosystem for pets (Social, Services, & Retail).
+- ⭐ **Open Source Creator:** Author of `django-crm` and founder of MicroPyramid Consulting.
+- 🛠 **Tech Stack:** Python, Django, Salesforce, and SEO-driven architecture.
 
 ### 🔹 [RunCode.io](https://runcode.io)  
 > AI-powered cloud development platform  
