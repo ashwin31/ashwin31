@@ -8,7 +8,7 @@
 
 ## 🧑‍💼 About Me
 
-I'm the founder of [RunCode.io](https://runcode.io) and [MicroPyramid.com](https://micropyramid.com), with over 13 years of experience in building scalable software solutions, leading product innovation, and mentoring engineering teams. I specialize in cloud development, DevOps, and AI-driven automation tools.
+I'm the founder of [FyrryPari.com](https://furrypari.com), [RunCode.io](https://runcode.io) and [MicroPyramid.com](https://micropyramid.com), with over 13 years of experience in building scalable software solutions, leading product innovation, and mentoring engineering teams. I specialize in cloud development, DevOps, and AI-driven automation tools.
 
 ---
 
