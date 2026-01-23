@@ -2,7 +2,7 @@
 
 🚀 Entrepreneur | 💻 Tech Leader | 🧠 AI Enthusiast  
 📍 Hyderabad, India  
-📄 [View My Resume (PDF)](Aswani_Kumar_Resume.pdf)
+📄 [View My Resume (PDF)](Ashwin_Resume.pdf)
 
 ---
 
